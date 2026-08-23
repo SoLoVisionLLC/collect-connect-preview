@@ -1,0 +1,416 @@
+[
+  {
+    "variant": "a",
+    "url": "https://collect-connect-a.sololink.cloud/",
+    "primaryShot": "/home/solo/.hermes/kanban/workspaces/t_8ad9ddb8/collect-connect-preview/qa-receipts/captures/a_home_390x844_dpr2.png",
+    "scrollY": 0,
+    "docHeight": 3550,
+    "fontsLoaded": true,
+    "imgsTotal": 1,
+    "imgsBroken": 0,
+    "title": "Collect & Connect — Video Games & Collectibles in Fostoria",
+    "contentSize": {
+      "w": 390,
+      "h": 3550
+    },
+    "secondary_430x932": {
+      "scrollY": 0,
+      "overflowX": false,
+      "imgsBroken": 0
+    },
+    "capturedAt": "2026-08-23T19:05:58.227Z",
+    "device": "mobile emulation",
+    "dpr": 2
+  },
+  {
+    "variant": "a",
+    "url": "https://collect-connect-a.sololink.cloud/shop-categories.html",
+    "primaryShot": "/home/solo/.hermes/kanban/workspaces/t_8ad9ddb8/collect-connect-preview/qa-receipts/captures/a_shop-categories_html_390x844_dpr2.png",
+    "scrollY": 0,
+    "docHeight": 1916,
+    "fontsLoaded": true,
+    "imgsTotal": 0,
+    "imgsBroken": 0,
+    "title": "Shop Categories — Collect & Connect",
+    "contentSize": {
+      "w": 390,
+      "h": 1916
+    },
+    "secondary_430x932": {
+      "scrollY": 0,
+      "overflowX": false,
+      "imgsBroken": 0
+    },
+    "capturedAt": "2026-08-23T19:06:01.807Z",
+    "device": "mobile emulation",
+    "dpr": 2
+  },
+  {
+    "variant": "a",
+    "url": "https://collect-connect-a.sololink.cloud/sell-or-trade.html",
+    "primaryShot": "/home/solo/.hermes/kanban/workspaces/t_8ad9ddb8/collect-connect-preview/qa-receipts/captures/a_sell-or-trade_html_390x844_dpr2.png",
+    "scrollY": 0,
+    "docHeight": 1098,
+    "fontsLoaded": true,
+    "imgsTotal": 0,
+    "imgsBroken": 0,
+    "title": "Sell or Trade — Collect & Connect",
+    "contentSize": {
+      "w": 390,
+      "h": 1098
+    },
+    "secondary_430x932": {
+      "scrollY": 0,
+      "overflowX": false,
+      "imgsBroken": 0
+    },
+    "capturedAt": "2026-08-23T19:06:05.325Z",
+    "device": "mobile emulation",
+    "dpr": 2
+  },
+  {
+    "variant": "a",
+    "url": "https://collect-connect-a.sololink.cloud/new-arrivals.html",
+    "primaryShot": "/home/solo/.hermes/kanban/workspaces/t_8ad9ddb8/collect-connect-preview/qa-receipts/captures/a_new-arrivals_html_390x844_dpr2.png",
+    "scrollY": 0,
+    "docHeight": 855,
+    "fontsLoaded": true,
+    "imgsTotal": 0,
+    "imgsBroken": 0,
+    "title": "New Arrivals — Collect & Connect",
+    "contentSize": {
+      "w": 390,
+      "h": 855
+    },
+    "secondary_430x932": {
+      "scrollY": 0,
+      "overflowX": false,
+      "imgsBroken": 0
+    },
+    "capturedAt": "2026-08-23T19:06:08.350Z",
+    "device": "mobile emulation",
+    "dpr": 2
+  },
+  {
+    "variant": "a",
+    "url": "https://collect-connect-a.sololink.cloud/about.html",
+    "primaryShot": "/home/solo/.hermes/kanban/workspaces/t_8ad9ddb8/collect-connect-preview/qa-receipts/captures/a_about_html_390x844_dpr2.png",
+    "scrollY": 0,
+    "docHeight": 1378,
+    "fontsLoaded": true,
+    "imgsTotal": 1,
+    "imgsBroken": 0,
+    "title": "About — Collect & Connect",
+    "contentSize": {
+      "w": 390,
+      "h": 1378
+    },
+    "secondary_430x932": {
+      "scrollY": 0,
+      "overflowX": false,
+      "imgsBroken": 0
+    },
+    "capturedAt": "2026-08-23T19:06:11.815Z",
+    "device": "mobile emulation",
+    "dpr": 2
+  },
+  {
+    "variant": "a",
+    "url": "https://collect-connect-a.sololink.cloud/visit.html",
+    "primaryShot": "/home/solo/.hermes/kanban/workspaces/t_8ad9ddb8/collect-connect-preview/qa-receipts/captures/a_visit_html_390x844_dpr2.png",
+    "scrollY": 0,
+    "docHeight": 1297,
+    "fontsLoaded": true,
+    "imgsTotal": 0,
+    "imgsBroken": 0,
+    "title": "Visit — Collect & Connect",
+    "contentSize": {
+      "w": 390,
+      "h": 1297
+    },
+    "secondary_430x932": {
+      "scrollY": 0,
+      "overflowX": false,
+      "imgsBroken": 0
+    },
+    "capturedAt": "2026-08-23T19:06:15.889Z",
+    "device": "mobile emulation",
+    "dpr": 2
+  },
+  {
+    "variant": "b",
+    "url": "https://collect-connect-b.sololink.cloud/",
+    "primaryShot": "/home/solo/.hermes/kanban/workspaces/t_8ad9ddb8/collect-connect-preview/qa-receipts/captures/b_home_390x844_dpr2.png",
+    "scrollY": 0,
+    "docHeight": 3059,
+    "fontsLoaded": true,
+    "imgsTotal": 1,
+    "imgsBroken": 0,
+    "title": "Collect & Connect — Video Games & Collectibles in Fostoria",
+    "contentSize": {
+      "w": 390,
+      "h": 3059
+    },
+    "secondary_430x932": {
+      "scrollY": 0,
+      "overflowX": false,
+      "imgsBroken": 0
+    },
+    "capturedAt": "2026-08-23T19:06:20.423Z",
+    "device": "mobile emulation",
+    "dpr": 2
+  },
+  {
+    "variant": "b",
+    "url": "https://collect-connect-b.sololink.cloud/shop-categories.html",
+    "primaryShot": "/home/solo/.hermes/kanban/workspaces/t_8ad9ddb8/collect-connect-preview/qa-receipts/captures/b_shop-categories_html_390x844_dpr2.png",
+    "scrollY": 0,
+    "docHeight": 1131,
+    "fontsLoaded": true,
+    "imgsTotal": 0,
+    "imgsBroken": 0,
+    "title": "Shop Categories — Collect & Connect",
+    "contentSize": {
+      "w": 390,
+      "h": 1131
+    },
+    "secondary_430x932": {
+      "scrollY": 0,
+      "overflowX": false,
+      "imgsBroken": 0
+    },
+    "capturedAt": "2026-08-23T19:06:23.748Z",
+    "device": "mobile emulation",
+    "dpr": 2
+  },
+  {
+    "variant": "b",
+    "url": "https://collect-connect-b.sololink.cloud/sell-or-trade.html",
+    "primaryShot": "/home/solo/.hermes/kanban/workspaces/t_8ad9ddb8/collect-connect-preview/qa-receipts/captures/b_sell-or-trade_html_390x844_dpr2.png",
+    "scrollY": 0,
+    "docHeight": 931,
+    "fontsLoaded": true,
+    "imgsTotal": 0,
+    "imgsBroken": 0,
+    "title": "Sell or Trade — Collect & Connect",
+    "contentSize": {
+      "w": 390,
+      "h": 931
+    },
+    "secondary_430x932": {
+      "scrollY": 0,
+      "overflowX": false,
+      "imgsBroken": 0
+    },
+    "capturedAt": "2026-08-23T19:06:27.254Z",
+    "device": "mobile emulation",
+    "dpr": 2
+  },
+  {
+    "variant": "b",
+    "url": "https://collect-connect-b.sololink.cloud/new-arrivals.html",
+    "primaryShot": "/home/solo/.hermes/kanban/workspaces/t_8ad9ddb8/collect-connect-preview/qa-receipts/captures/b_new-arrivals_html_390x844_dpr2.png",
+    "scrollY": 0,
+    "docHeight": 993,
+    "fontsLoaded": true,
+    "imgsTotal": 0,
+    "imgsBroken": 0,
+    "title": "New Arrivals — Collect & Connect",
+    "contentSize": {
+      "w": 390,
+      "h": 993
+    },
+    "secondary_430x932": {
+      "scrollY": 0,
+      "overflowX": false,
+      "imgsBroken": 0
+    },
+    "capturedAt": "2026-08-23T19:06:30.529Z",
+    "device": "mobile emulation",
+    "dpr": 2
+  },
+  {
+    "variant": "b",
+    "url": "https://collect-connect-b.sololink.cloud/about.html",
+    "primaryShot": "/home/solo/.hermes/kanban/workspaces/t_8ad9ddb8/collect-connect-preview/qa-receipts/captures/b_about_html_390x844_dpr2.png",
+    "scrollY": 0,
+    "docHeight": 1360,
+    "fontsLoaded": true,
+    "imgsTotal": 1,
+    "imgsBroken": 0,
+    "title": "About — Collect & Connect",
+    "contentSize": {
+      "w": 390,
+      "h": 1360
+    },
+    "secondary_430x932": {
+      "scrollY": 0,
+      "overflowX": false,
+      "imgsBroken": 0
+    },
+    "capturedAt": "2026-08-23T19:06:33.755Z",
+    "device": "mobile emulation",
+    "dpr": 2
+  },
+  {
+    "variant": "b",
+    "url": "https://collect-connect-b.sololink.cloud/visit.html",
+    "primaryShot": "/home/solo/.hermes/kanban/workspaces/t_8ad9ddb8/collect-connect-preview/qa-receipts/captures/b_visit_html_390x844_dpr2.png",
+    "scrollY": 0,
+    "docHeight": 1160,
+    "fontsLoaded": true,
+    "imgsTotal": 0,
+    "imgsBroken": 0,
+    "title": "Visit — Collect & Connect",
+    "contentSize": {
+      "w": 390,
+      "h": 1160
+    },
+    "secondary_430x932": {
+      "scrollY": 0,
+      "overflowX": false,
+      "imgsBroken": 0
+    },
+    "capturedAt": "2026-08-23T19:06:38.322Z",
+    "device": "mobile emulation",
+    "dpr": 2
+  },
+  {
+    "variant": "c",
+    "url": "https://collect-connect-c.sololink.cloud/",
+    "primaryShot": "/home/solo/.hermes/kanban/workspaces/t_8ad9ddb8/collect-connect-preview/qa-receipts/captures/c_home_390x844_dpr2.png",
+    "scrollY": 0,
+    "docHeight": 3512,
+    "fontsLoaded": true,
+    "imgsTotal": 2,
+    "imgsBroken": 0,
+    "title": "Collect & Connect — Video Games & Collectibles in Fostoria",
+    "contentSize": {
+      "w": 390,
+      "h": 3512
+    },
+    "secondary_430x932": {
+      "scrollY": 0,
+      "overflowX": false,
+      "imgsBroken": 0
+    },
+    "capturedAt": "2026-08-23T19:06:42.691Z",
+    "device": "mobile emulation",
+    "dpr": 2
+  },
+  {
+    "variant": "c",
+    "url": "https://collect-connect-c.sololink.cloud/shop-categories.html",
+    "primaryShot": "/home/solo/.hermes/kanban/workspaces/t_8ad9ddb8/collect-connect-preview/qa-receipts/captures/c_shop-categories_html_390x844_dpr2.png",
+    "scrollY": 0,
+    "docHeight": 1940,
+    "fontsLoaded": true,
+    "imgsTotal": 0,
+    "imgsBroken": 0,
+    "title": "Shop Categories — Collect & Connect",
+    "contentSize": {
+      "w": 390,
+      "h": 1940
+    },
+    "secondary_430x932": {
+      "scrollY": 0,
+      "overflowX": false,
+      "imgsBroken": 0
+    },
+    "capturedAt": "2026-08-23T19:06:46.224Z",
+    "device": "mobile emulation",
+    "dpr": 2
+  },
+  {
+    "variant": "c",
+    "url": "https://collect-connect-c.sololink.cloud/sell-or-trade.html",
+    "primaryShot": "/home/solo/.hermes/kanban/workspaces/t_8ad9ddb8/collect-connect-preview/qa-receipts/captures/c_sell-or-trade_html_390x844_dpr2.png",
+    "scrollY": 0,
+    "docHeight": 1091,
+    "fontsLoaded": true,
+    "imgsTotal": 0,
+    "imgsBroken": 0,
+    "title": "Sell or Trade — Collect & Connect",
+    "contentSize": {
+      "w": 390,
+      "h": 1091
+    },
+    "secondary_430x932": {
+      "scrollY": 0,
+      "overflowX": false,
+      "imgsBroken": 0
+    },
+    "capturedAt": "2026-08-23T19:06:49.473Z",
+    "device": "mobile emulation",
+    "dpr": 2
+  },
+  {
+    "variant": "c",
+    "url": "https://collect-connect-c.sololink.cloud/new-arrivals.html",
+    "primaryShot": "/home/solo/.hermes/kanban/workspaces/t_8ad9ddb8/collect-connect-preview/qa-receipts/captures/c_new-arrivals_html_390x844_dpr2.png",
+    "scrollY": 0,
+    "docHeight": 937,
+    "fontsLoaded": true,
+    "imgsTotal": 0,
+    "imgsBroken": 0,
+    "title": "New Arrivals — Collect & Connect",
+    "contentSize": {
+      "w": 390,
+      "h": 937
+    },
+    "secondary_430x932": {
+      "scrollY": 0,
+      "overflowX": false,
+      "imgsBroken": 0
+    },
+    "capturedAt": "2026-08-23T19:06:52.524Z",
+    "device": "mobile emulation",
+    "dpr": 2
+  },
+  {
+    "variant": "c",
+    "url": "https://collect-connect-c.sololink.cloud/about.html",
+    "primaryShot": "/home/solo/.hermes/kanban/workspaces/t_8ad9ddb8/collect-connect-preview/qa-receipts/captures/c_about_html_390x844_dpr2.png",
+    "scrollY": 0,
+    "docHeight": 1950,
+    "fontsLoaded": true,
+    "imgsTotal": 2,
+    "imgsBroken": 0,
+    "title": "About — Collect & Connect",
+    "contentSize": {
+      "w": 390,
+      "h": 1950
+    },
+    "secondary_430x932": {
+      "scrollY": 0,
+      "overflowX": false,
+      "imgsBroken": 0
+    },
+    "capturedAt": "2026-08-23T19:06:56.340Z",
+    "device": "mobile emulation",
+    "dpr": 2
+  },
+  {
+    "variant": "c",
+    "url": "https://collect-connect-c.sololink.cloud/visit.html",
+    "primaryShot": "/home/solo/.hermes/kanban/workspaces/t_8ad9ddb8/collect-connect-preview/qa-receipts/captures/c_visit_html_390x844_dpr2.png",
+    "scrollY": 0,
+    "docHeight": 1362,
+    "fontsLoaded": true,
+    "imgsTotal": 0,
+    "imgsBroken": 0,
+    "title": "Visit — Collect & Connect",
+    "contentSize": {
+      "w": 390,
+      "h": 1362
+    },
+    "secondary_430x932": {
+      "scrollY": 0,
+      "overflowX": false,
+      "imgsBroken": 0
+    },
+    "capturedAt": "2026-08-23T19:07:01.243Z",
+    "device": "mobile emulation",
+    "dpr": 2
+  }
+]
