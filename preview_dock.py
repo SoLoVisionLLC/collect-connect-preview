@@ -37,6 +37,7 @@ def render(variant: str, filename: str) -> str:
         '  <nav class="preview-dock-inner" aria-label="Preview designs">\n'
         '    <span class="preview-group-label">VARIANT:</span>\n'
         f'    {"".join(links)}\n'
+        '    <span class="preview-dock-divider" aria-hidden="true"></span>\n'
         '  </nav>\n'
         '</aside>'
     )

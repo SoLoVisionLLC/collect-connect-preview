@@ -78,3 +78,4 @@ footer nav{justify-content:center;display:flex;gap:16px;margin-top:10px;flex-wra
 .preview-dock a:focus-visible{outline:2px solid #BC2026;outline-offset:-3px}
 @media(max-width:520px){.preview-dock{bottom:70px;max-width:calc(100vw - 16px)}.preview-group-label{display:none}.preview-design{padding-inline:9px}}
 @media(prefers-reduced-motion:reduce){.preview-design{transition:none}}
+.preview-dock-divider{flex:0 0 1px;width:1px;height:16px;background:rgba(255,255,255,.28)}

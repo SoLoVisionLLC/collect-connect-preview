@@ -15,6 +15,7 @@ DOCK_CSS = r'''
 .preview-group-label{flex:0 0 auto;margin:0 5px;color:#bdbdbd;font-size:10px;font-weight:700;letter-spacing:.06em}
 .preview-design{display:inline-flex;align-items:center;justify-content:center;gap:4px;min-width:44px;min-height:28px;height:28px;padding:0 10px;border-radius:999px;color:#fff;text-decoration:none;white-space:nowrap;transition:background-color .15s ease,color .15s ease}
 .preview-design-name{font:inherit}.preview-design:hover{background:rgba(255,255,255,.12);color:#fff}.preview-design.is-active{background:#BC2026;color:#fff}
+.preview-dock-divider{flex:0 0 1px;width:1px;height:16px;background:rgba(255,255,255,.28)}
 .preview-dock a:focus-visible{outline:2px solid #BC2026;outline-offset:-3px}
 @media(max-width:520px){.preview-dock{bottom:70px;max-width:calc(100vw - 16px)}.preview-group-label{display:none}.preview-design{padding-inline:9px}}
 @media(prefers-reduced-motion:reduce){.preview-design{transition:none}}
@@ -26,6 +27,8 @@ for variant in ("a", "b", "c"):
     content = css.read_text()
     if ".preview-dock{" not in content:
         css.write_text(content.rstrip() + "\n" + DOCK_CSS)
+    elif ".preview-dock-divider" not in content:
+        css.write_text(content.rstrip() + "\n.preview-dock-divider{flex:0 0 1px;width:1px;height:16px;background:rgba(255,255,255,.28)}\n")
     for page in sorted(variant_root.glob("*.html")):
         content = page.read_text()
         if 'styles.css?v=' not in content:
@@ -36,4 +39,6 @@ for variant in ("a", "b", "c"):
             if insert_before not in content:
                 raise SystemExit(f"missing body in {page}")
             content = content.replace(insert_before, render(variant, page.name) + "\n\n" + insert_before, 1)
+        elif 'preview-dock-divider' not in content:
+            content = content.replace('  </nav>\n</aside>', '    <span class="preview-dock-divider" aria-hidden="true"></span>\n  </nav>\n</aside>', 1)
         page.write_text(content)
