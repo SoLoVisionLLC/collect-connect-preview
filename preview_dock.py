@@ -12,7 +12,7 @@ VARIANT_NAMES = {
     "b": "Modern / Conversion-first",
     "c": "Bold / Differentiated",
 }
-ASSET_VERSION = "20260907-v7-pill"
+ASSET_VERSION = "20260907-v8-pill"
 
 
 def route_for_file(filename: str) -> str:
@@ -35,7 +35,7 @@ def render(variant: str, filename: str) -> str:
     return (
         '<aside class="preview-dock" aria-label="Collect &amp; Connect preview comparison">\n'
         '  <nav class="preview-dock-inner" aria-label="Preview designs">\n'
-        '    <span class="preview-group-label">VARIANT:</span>\n'
+        '    <span class="preview-group-label">Variant:</span>\n'
         f'    {"".join(links)}\n'
         '    <span class="preview-dock-divider" aria-hidden="true"></span>\n'
         '  </nav>\n'
